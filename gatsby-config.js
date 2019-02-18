@@ -8,7 +8,7 @@ module.exports = {
       twitter: '@dan_abramov',
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/overreacted.io',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
